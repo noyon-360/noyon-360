@@ -3,7 +3,7 @@
 <!-- <img src="./banner.png" alt="Nazibullah Noyon Banner" style="width:100%;"/> -->
 
 <h2 align="center">Hey! 👋 I'm Nazibullah Noyon</h2>
-<p align="center">🚀 Flutter Application Developer | 🎨 Graphic Designer</p>
+<p align="center">🚀 Flutter & Node.js Application Developer | Cross-Platform</p>
 
 <!-- Visitor and GitHub Badges -->
 <p align="center">
