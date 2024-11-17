@@ -47,10 +47,10 @@
 <!-- GitHub Repository Showcase -->
 <h2>📁 Check out my GitHub repository:</h2>
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/noyon-360/Dhikrs">
+  <a href="https://github.com/noyon-360/Dhikr-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Dhikrs" alt="Dhikrs GitHub Repo" style="max-width: 400px; border-radius: 10px;"/>
   </a>
-  <a href="https://github.com/noyon-360/Primeasia-University-CSE-Waiver-Calculator">
+  <a href="https://github.com/noyon-360/primeasia-waiver">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Primeasia-University-CSE-Waiver-Calculator" alt="Waiver Calculator GitHub Repo" style="max-width: 400px; border-radius: 10px;"/>
   </a>
 </div>
