@@ -48,7 +48,8 @@
 <h2>📁 Check out my GitHub repository:</h2>
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/noyon-360/Dhikr-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Dhikr-Application" alt="Dhikrs GitHub Repo" style="max-width: 400px; border-radius: 10px;"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Dhikr-Application" alt="Dhikrs GitHub Repo" style="max-width: 400px; border-radius: 10px;"/> -->
+    <img width="1919" height="1038" alt="Word Game" src="https://github.com/user-attachments/assets/0d04b3c0-0ea5-4ff7-8a74-3a62f47c44ba" />
   </a>
   <a href="https://github.com/noyon-360/primeasia-waiver">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Primeasia-University-CSE-Waiver-Calculator" alt="Waiver Calculator GitHub Repo" style="max-width: 400px; border-radius: 10px;"/>
