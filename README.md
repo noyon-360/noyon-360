@@ -3,7 +3,7 @@
 <!-- <img src="./banner.png" alt="Nazibullah Noyon Banner" style="width:100%;"/> -->
 
 <h2 align="center">Hey! 👋 I'm Nazibullah Noyon</h2>
-<p align="center">🚀 Flutter & Node.js Application Developer | Cross-Platform</p>
+<p align="center">🚀 Flutter & Node.js Full-Stack Developer | Cross-Platform Mobile & Backend Solutions</p>
 
 <!-- Visitor and GitHub Badges -->
 <p align="center">
@@ -15,57 +15,66 @@
   </a>
 </p>
 
-<!-- Key Skills Section -->
-<h2>💻 Key Skills</h2>
-<ul style="list-style-type: none; padding: 0;">
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">Flutter Application Development</i>
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">UI/UX Design</i>
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">Graphic Design (letterheads, business cards, brand guides, logos)</i>
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">Mobile App Design</i>
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">Adobe Creative Suite (Photoshop, Illustrator)</i>
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">Figma</i>
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">Responsive Design Principles</i>
-  </li>
-  <li style="margin-bottom: 10px; font-size: 1.1em;">
-    <i style="color: #4A90E2;">Agile Development Methodologies</i>
-  </li>
-</ul>
+<!-- Technologies & Skills Section -->
+<h2>💻 Technologies & Skills</h2>
+
+### 📱 Mobile & Frontend
+- Flutter (Clean Architecture, Production Apps for Android & iOS)
+- Dart
+- Firebase (Auth, Firestore, Cloud Functions)
+- Google Maps & MapBox Integration
+- Next.js + TypeScript (Learning & Building)
+
+### ⚙️ Backend & Full-Stack
+- Node.js + Express
+- MongoDB
+- OAuth2 & Secure Authentication (Facebook, Google, etc.)
+- RESTful API Design
+
+### 💳 Payments & Subscriptions
+- Stripe Integration (Payments, Subscriptions)
+- RevenueCat (In-App Purchases & Subscription Management)
+
+### ☁️ Cloud, Deployment & DevOps
+- AWS (EC2, S3, IAM, Cost Optimization)
+- VPS Management (Hostinger, Namecheap, GoDaddy)
+- App Publishing (Google Play Store & Apple App Store)
+- GitHub Workflows, Code Reviews, CI/CD
+
+### 🎨 Design & UI/UX
+- Figma (Mobile App & UI Design)
+- Adobe Photoshop & Illustrator
+- Graphic Design (Logos, Brand Guides, Business Cards)
+- Responsive Design Principles
+
+### 🛠 Tools & Practices
+- Git & GitHub (Advanced Workflows)
+- Agile Methodologies
+- Debugging Production Issues & Real-User Problems
 
 <!-- GitHub Repository Showcase -->
-<h2>📁 Check out my GitHub repository:</h2>
-<div style="display: flex; justify-content: center; gap: 20px;">
+<h2>📁 Featured Projects</h2>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/noyon-360/Dhikr-Application">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Dhikr-Application" alt="Dhikrs GitHub Repo" style="max-width: 400px; border-radius: 10px;"/> -->
-    <img width="1919" height="1038" alt="Word Game" src="https://github.com/user-attachments/assets/0d04b3c0-0ea5-4ff7-8a74-3a62f47c44ba" />
+    <img width="1919" height="1038" alt="Dhikr Application Screenshot" src="https://github.com/user-attachments/assets/0d04b3c0-0ea5-4ff7-8a74-3a62f47c44ba" style="border-radius: 10px; max-width: 100%; height: auto;"/>
   </a>
   <a href="https://github.com/noyon-360/primeasia-waiver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Primeasia-University-CSE-Waiver-Calculator" alt="Waiver Calculator GitHub Repo" style="max-width: 400px; border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Primeasia-University-CSE-Waiver-Calculator&theme=default" alt="Waiver Calculator GitHub Repo" style="border-radius: 10px;"/>
   </a>
 </div>
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noyon-360" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noyon-360&theme=default" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
 </p>
 
 <!-- About Section -->
-<h2> About Noyon⚡:</h2>
+<h2>About Noyon ⚡</h2>
 <p style="font-size: 1.1em; line-height: 1.6;">
-  With over three years of experience in graphic design and Flutter development, I combine visual design expertise with app development to create intuitive, engaging user interfaces.
+  Full-stack Flutter & Node.js developer with real-world production experience at ScaleUp Ads Agency. I ship cross-platform mobile apps (Android + iOS) with clean architecture, deploy them to app stores, build scalable Node.js + MongoDB backends, integrate payments (Stripe + RevenueCat), handle OAuth2 auth, and manage infrastructure on AWS and VPS providers.<br><br>
+  What started as Flutter development has grown into comfortable full-stack work — from solving live bugs under deadlines to optimizing AWS costs. I learn fastest when tackling problems that matter to real users.<br><br>
+  Currently diving deeper into system design, scalable architecture, DevOps, and building efficient, production-ready systems. Always open to connecting with fellow developers!
 </p>
 
 <!-- Contact Information -->
