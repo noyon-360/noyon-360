@@ -1,89 +1,100 @@
-<!-- Banner and Intro -->
-<!-- Uncomment the following line if you have a banner image to display -->
-<!-- <img src="./banner.png" alt="Nazibullah Noyon Banner" style="width:100%;"/> -->
+<!-- Colours match nazibullahnoyon.me: ink #07080c · client #4cc2ff · server #ff4d6d · ops #ffb547 · craft #b48cff -->
 
-<h2 align="center">Hey! 👋 I'm Nazibullah Noyon</h2>
-<p align="center">🚀 Flutter & Node.js Full-Stack Developer | Cross-Platform Mobile & Backend Solutions</p>
-
-<!-- Visitor and GitHub Badges -->
 <p align="center">
-  <a href="https://github.com/noyon-360">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=noyon-360.noyon-360" alt="Visitor Badge" />
-  </a>
-  <a href="https://github.com/noyon-360?tab=followers">
-    <img src="https://img.shields.io/github/followers/noyon-360.svg?style=social&label=Follow" alt="GitHub Followers" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07080c,55:ff4d6d,100:4cc2ff&height=210&section=header&text=Nazibullah%20Noyon&fontSize=50&fontColor=e9edf3&animation=fadeIn&fontAlignY=36&desc=Cyber%20Security%20Researcher%20%26%20Software%20Engineer&descAlignY=56&descSize=18" width="100%" alt="Nazibullah Noyon"/>
 </p>
 
-<!-- Technologies & Skills Section -->
-<h2>💻 Technologies & Skills</h2>
-
-### 📱 Mobile & Frontend
-- Flutter (Clean Architecture, Production Apps for Android & iOS)
-- Dart
-- Firebase (Auth, Firestore, Cloud Functions)
-- Google Maps & MapBox Integration
-- Next.js + TypeScript (Learning & Building)
-
-### ⚙️ Backend & Full-Stack
-- Node.js + Express
-- MongoDB
-- OAuth2 & Secure Authentication (Facebook, Google, etc.)
-- RESTful API Design
-
-### 💳 Payments & Subscriptions
-- Stripe Integration (Payments, Subscriptions)
-- RevenueCat (In-App Purchases & Subscription Management)
-
-### ☁️ Cloud, Deployment & DevOps
-- AWS (EC2, S3, IAM, Cost Optimization)
-- VPS Management (Hostinger, Namecheap, GoDaddy)
-- App Publishing (Google Play Store & Apple App Store)
-- GitHub Workflows, Code Reviews, CI/CD
-
-### 🎨 Design & UI/UX
-- Figma (Mobile App & UI Design)
-- Adobe Photoshop & Illustrator
-- Graphic Design (Logos, Brand Guides, Business Cards)
-- Responsive Design Principles
-
-### 🛠 Tools & Practices
-- Git & GitHub (Advanced Workflows)
-- Agile Methodologies
-- Debugging Production Issues & Real-User Problems
-
-<!-- GitHub Repository Showcase -->
-<h2>📁 Featured Projects</h2>
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/noyon-360/Dhikr-Application">
-    <img width="1919" height="1038" alt="Dhikr Application Screenshot" src="https://github.com/user-attachments/assets/0d04b3c0-0ea5-4ff7-8a74-3a62f47c44ba" style="border-radius: 10px; max-width: 100%; height: auto;"/>
-  </a>
-  <a href="https://github.com/noyon-360/primeasia-waiver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noyon-360&repo=Primeasia-University-CSE-Waiver-Calculator&theme=default" alt="Waiver Calculator GitHub Repo" style="border-radius: 10px;"/>
-  </a>
-</div>
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noyon-360&theme=default" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+  <a href="https://nazibullahnoyon.me">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=FF4D6D&center=true&vCenter=true&width=640&lines=I+break+systems+to+secure+them%2C;and+build+the+apps." alt="I break systems to secure them, and build the apps."/>
+  </a>
 </p>
 
-<!-- About Section -->
-<h2>About Noyon ⚡</h2>
-<p style="font-size: 1.1em; line-height: 1.6;">
-  Full-stack Flutter & Node.js developer with real-world production experience at ScaleUp Ads Agency. I ship cross-platform mobile apps (Android + iOS) with clean architecture, deploy them to app stores, build scalable Node.js + MongoDB backends, integrate payments (Stripe + RevenueCat), handle OAuth2 auth, and manage infrastructure on AWS and VPS providers.<br><br>
-  What started as Flutter development has grown into comfortable full-stack work — from solving live bugs under deadlines to optimizing AWS costs. I learn fastest when tackling problems that matter to real users.<br><br>
-  Currently diving deeper into system design, scalable architecture, DevOps, and building efficient, production-ready systems. Always open to connecting with fellow developers!
+<p align="center">
+  <a href="https://nazibullahnoyon.me"><img src="https://img.shields.io/badge/Portfolio-nazibullahnoyon.me-4cc2ff?style=for-the-badge&labelColor=07080c" alt="Portfolio"/></a>
+  <a href="https://nazibullahnoyon.me/case-study"><img src="https://img.shields.io/badge/Case%20studies-5-ff4d6d?style=for-the-badge&labelColor=07080c" alt="Case studies"/></a>
+  <img src="https://img.shields.io/badge/📍%20Gazipur%2C%20BD-UTC%2B6-ffb547?style=for-the-badge&labelColor=07080c" alt="Location"/>
 </p>
 
-<!-- Contact Information -->
-<h2>📫 How to reach me:</h2>
-<p>
-  <a href="mailto:nazibullahnoyon19.20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nazibullah3nsn/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+---
+
+### ⚡ About
+
+- 🛡️ **Cyber security researcher** — vulnerabilities, malware, zero-days and ML-based defences.
+- 📱 **Software engineer** — **35+ cross-platform apps** shipped to Google Play and the App Store.
+- 🔗 **Full-stack** across the Flutter client and the NestJS / Firebase backend behind it.
+- 👥 Flutter Developer at **ScaleUp Ads Agency**, leading and mentoring a **14-person team**.
+- 🎓 BSc CSE, Primeasia University — thesis: [ML for network intrusion detection](https://github.com/noyon-360/ML-in-Cyber-security) (98% accuracy, XGBoost & RF).
+
+<p align="center">
+  <img src="https://img.shields.io/badge/35%2B-apps%20shipped-4cc2ff?style=flat-square&labelColor=0e1118"/>
+  <img src="https://img.shields.io/badge/14-engineers%20led-ffb547?style=flat-square&labelColor=0e1118"/>
+  <img src="https://img.shields.io/badge/99%25-crash--free%20sessions-ff4d6d?style=flat-square&labelColor=0e1118"/>
+  <img src="https://img.shields.io/badge/6-releases%20%2F%20month-b48cff?style=flat-square&labelColor=0e1118"/>
+</p>
+
+---
+
+### 🧰 Toolkit
+
+| | |
+|---|---|
+| 🛡️ **Security** | <img src="https://skillicons.dev/icons?i=kali,python,linux&theme=dark" height="34"/> &nbsp; Burp Suite · Nmap · Metasploit · MobSF · OWASP Juice Shop · PortSwigger Labs |
+| 📱 **Client** | <img src="https://skillicons.dev/icons?i=flutter,dart,ts,firebase&theme=dark" height="34"/> &nbsp; Clean Architecture · MVVM · Bloc · Riverpod · GetX |
+| ⚙️ **Server** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb,mysql,redis&theme=dark" height="34"/> &nbsp; REST · Socket.IO · BullMQ · Stripe · ffmpeg/HLS |
+| 🚀 **Ops** | <img src="https://skillicons.dev/icons?i=githubactions,aws,git&theme=dark" height="34"/> &nbsp; Codemagic · Shorebird OTA · PM2 · VPS |
+| 🎨 **Craft** | <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,arduino&theme=dark" height="34"/> &nbsp; Branding · Arabic calligraphy · IoT robotics |
+
+---
+
+### 🔬 Security case studies
+
+Scroll-driven 3D write-ups on [nazibullahnoyon.me/case-study](https://nazibullahnoyon.me/case-study):
+
+| Case study | Topic |
+|---|---|
+| [Knowing where to stop](https://nazibullahnoyon.me/case-study/academic-portal-disclosure) | Responsible disclosure |
+| [One install command, four servers](https://nazibullahnoyon.me/case-study/npm-supply-chain-attack) | npm supply-chain attack |
+| [Nineteen months with the door open](https://nazibullahnoyon.me/case-study/mongodb-ransomware-attack) | MongoDB ransomware |
+| [The Shwapno data breach](https://nazibullahnoyon.me/case-study/shwapno-data-breach) | Data breach |
+| [WannaCry and EternalBlue](https://nazibullahnoyon.me/case-study/wannacry-eternalblue) | Ransomware worm |
+
+---
+
+### 📁 Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **BeatX** | Solo-built streaming backend: multi-GB uploads → S3 → 4 HLS renditions on a job queue | NestJS · BullMQ · ffmpeg · S3 |
+| **Exodus** | Bus booking: QR tickets, live bus tracking, pay on arrival | Flutter · Socket.IO · Stripe |
+| **[AzloTV](https://github.com/noyon-360/flutter_flimsa_v2)** | Streaming app: series, reels, resume-where-you-stopped player | Flutter · GetX · Chewie |
+| **[Envielite](https://github.com/FSDTeam-SAA/flutter_envielite)** | Offline in-flight tour guide, 300 m GPS geofences, 8 languages | Flutter · Geolocator |
+| **[CosmoQuest](https://github.com/noyon-360/CosmoQuest)** | Learn exoplanets from NASA data, quizzes and leaderboards | Flutter · Firebase · NASA APIs |
+| **[Couplio](https://github.com/noyon-360/couplio)** | Calorie tracker for two, QR pairing and live sync | Flutter · Firestore · Gemini |
+
+Other projects: [Dhikr Application](https://github.com/noyon-360/Dhikr-Application) · [Primeasia CSE Waiver Calculator](https://github.com/noyon-360/primeasia-waiver)
+
+---
+
+### 📊 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=noyon-360&hide_border=true&background=07080c&ring=ff4d6d&fire=ffb547&currStreakLabel=4cc2ff&sideLabels=e9edf3&currStreakNum=e9edf3&sideNums=e9edf3&dates=8d97a8&stroke=0e1118" alt="GitHub streak" height="165"/>
+</p>
+
+<!-- 3D contribution calendar — generated by .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://nazibullahnoyon.me"><img src="https://img.shields.io/badge/Portfolio-07080c?style=for-the-badge&logo=googlechrome&logoColor=4cc2ff" alt="Portfolio"/></a>
+  <a href="mailto:nazibullahnoyon19.20@gmail.com"><img src="https://img.shields.io/badge/Email-07080c?style=for-the-badge&logo=gmail&logoColor=ff4d6d" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/nazibullah3nsn/"><img src="https://img.shields.io/badge/LinkedIn-07080c?style=for-the-badge&logo=linkedin&logoColor=4cc2ff" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cc2ff,45:ff4d6d,100:07080c&height=110&section=footer" width="100%" alt=""/>
 </p>
