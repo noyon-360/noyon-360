@@ -1,7 +1,7 @@
 <!-- Terminal theme, matching nazibullahnoyon.me: ink #050806 · signal #39ff88 · alert #ff3b5c · warn #ffcc00 · trace #00e5ff -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050806,100:0a110c&height=170&section=header&text=%3E_%20nazibullah%20noyon&fontSize=46&fontColor=39ff88&fontAlign=50&fontAlignY=45&desc=ethical%20hacker%20%E2%80%A2%20software%20engineer&descSize=17&descAlignY=72&animation=fadeIn" width="100%" alt="nazibullah noyon"/>
+  <img src="./assets/hero.svg" width="100%" alt="Nazibullah Noyon — ethical hacker and software engineer"/>
 </p>
 
 <p align="center">
@@ -46,6 +46,10 @@ alignment   : white hat — every test authorised, every finding reported
 | 🔐 **Harden** | Close the gap, then look for the next one | Auth guards, token refresh, secure storage |
 | 📝 **Report** | Clear, reproducible, responsibly disclosed | Code review standards for a 14-person team |
 | 🔁 **Repeat** | Curiosity doesn't clock out | CI/CD — 6 releases a month, 99% crash-free |
+
+<p align="center">
+  <img src="./assets/defense-stack.svg" width="100%" alt="Defense in depth: client, API, data and infra layers, with untrusted input stopped at the shield"/>
+</p>
 
 <details>
 <summary><b>📜 Rules of engagement</b></summary>

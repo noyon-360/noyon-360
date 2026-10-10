@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540">
+<defs><filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="540" rx="16" fill="#050806"/>
+<rect x=".75" y=".75" width="1198.5" height="538.5" rx="16" fill="none" stroke="#39ff88" stroke-opacity=".25" stroke-width="1.5"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace"><text x="40" y="48" font-size="16" fill="#7a9984">root@noyon:~$ <tspan fill="#39ff88">./defense-in-depth --visualize</tspan></text>
+<text x="40" y="74" font-size="13" fill="#7a9984">every layer assumes the one above it can fail</text></g>
+<polygon points="600.0,320.0 754.2,409.0 600.0,498.0 445.8,409.0" fill="#39ff88" fill-opacity=".04" stroke="#39ff88" stroke-opacity=".15" stroke-dasharray="3 5"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="-0.0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+<polygon points="470.1,393.0 600.0,468.0 600.0,452.0 470.1,377.0" fill="#9fb8a6" fill-opacity=".10" stroke="#9fb8a6" stroke-opacity=".7"/>
+<polygon points="729.9,393.0 600.0,468.0 600.0,452.0 729.9,377.0" fill="#9fb8a6" fill-opacity=".18" stroke="#9fb8a6" stroke-opacity=".7"/>
+<polygon points="600.0,302.0 729.9,377.0 600.0,452.0 470.1,377.0" fill="#9fb8a6" fill-opacity=".12" stroke="#9fb8a6" stroke-width="1.5"/>
+<path d="M643.3,327.0L513.4,402.0M556.7,327.0L686.6,402.0" stroke="#9fb8a6" stroke-opacity=".25"/>
+<path d="M686.6,352.0L556.7,427.0M513.4,352.0L643.3,427.0" stroke="#9fb8a6" stroke-opacity=".25"/>
+<path d="M665.0,422.5 L840,422.5" stroke="#9fb8a6" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<circle cx="665.0" cy="422.5" r="3" fill="#9fb8a6"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace"><text x="860" y="418.5" font-size="15" font-weight="700" fill="#9fb8a6">INFRA</text><text x="860" y="437.5" font-size="12.5" fill="#d9f7e3" fill-opacity=".8">AWS · CI/CD · patching · monitoring</text></g>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="-0.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+<polygon points="470.1,319.0 600.0,394.0 600.0,378.0 470.1,303.0" fill="#ffcc00" fill-opacity=".10" stroke="#ffcc00" stroke-opacity=".7"/>
+<polygon points="729.9,319.0 600.0,394.0 600.0,378.0 729.9,303.0" fill="#ffcc00" fill-opacity=".18" stroke="#ffcc00" stroke-opacity=".7"/>
+<polygon points="600.0,228.0 729.9,303.0 600.0,378.0 470.1,303.0" fill="#ffcc00" fill-opacity=".12" stroke="#ffcc00" stroke-width="1.5"/>
+<path d="M643.3,253.0L513.4,328.0M556.7,253.0L686.6,328.0" stroke="#ffcc00" stroke-opacity=".25"/>
+<path d="M686.6,278.0L556.7,353.0M513.4,278.0L643.3,353.0" stroke="#ffcc00" stroke-opacity=".25"/>
+<path d="M665.0,348.5 L840,348.5" stroke="#ffcc00" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<circle cx="665.0" cy="348.5" r="3" fill="#ffcc00"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace"><text x="860" y="344.5" font-size="15" font-weight="700" fill="#ffcc00">DATA</text><text x="860" y="363.5" font-size="12.5" fill="#d9f7e3" fill-opacity=".8">least privilege · encryption at rest</text></g>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="-1.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+<polygon points="470.1,245.0 600.0,320.0 600.0,304.0 470.1,229.0" fill="#00e5ff" fill-opacity=".10" stroke="#00e5ff" stroke-opacity=".7"/>
+<polygon points="729.9,245.0 600.0,320.0 600.0,304.0 729.9,229.0" fill="#00e5ff" fill-opacity=".18" stroke="#00e5ff" stroke-opacity=".7"/>
+<polygon points="600.0,154.0 729.9,229.0 600.0,304.0 470.1,229.0" fill="#00e5ff" fill-opacity=".12" stroke="#00e5ff" stroke-width="1.5"/>
+<path d="M643.3,179.0L513.4,254.0M556.7,179.0L686.6,254.0" stroke="#00e5ff" stroke-opacity=".25"/>
+<path d="M686.6,204.0L556.7,279.0M513.4,204.0L643.3,279.0" stroke="#00e5ff" stroke-opacity=".25"/>
+<path d="M665.0,274.5 L840,274.5" stroke="#00e5ff" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<circle cx="665.0" cy="274.5" r="3" fill="#00e5ff"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace"><text x="860" y="270.5" font-size="15" font-weight="700" fill="#00e5ff">API</text><text x="860" y="289.5" font-size="12.5" fill="#d9f7e3" fill-opacity=".8">JWT · role guards · input validation</text></g>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" begin="-1.7999999999999998s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+<polygon points="470.1,171.0 600.0,246.0 600.0,230.0 470.1,155.0" fill="#39ff88" fill-opacity=".10" stroke="#39ff88" stroke-opacity=".7"/>
+<polygon points="729.9,171.0 600.0,246.0 600.0,230.0 729.9,155.0" fill="#39ff88" fill-opacity=".18" stroke="#39ff88" stroke-opacity=".7"/>
+<polygon points="600.0,80.0 729.9,155.0 600.0,230.0 470.1,155.0" fill="#39ff88" fill-opacity=".12" stroke="#39ff88" stroke-width="1.5"/>
+<path d="M643.3,105.0L513.4,180.0M556.7,105.0L686.6,180.0" stroke="#39ff88" stroke-opacity=".25"/>
+<path d="M686.6,130.0L556.7,205.0M513.4,130.0L643.3,205.0" stroke="#39ff88" stroke-opacity=".25"/>
+<path d="M665.0,200.5 L840,200.5" stroke="#39ff88" stroke-opacity=".5" stroke-dasharray="2 4"/>
+<circle cx="665.0" cy="200.5" r="3" fill="#39ff88"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace"><text x="860" y="196.5" font-size="15" font-weight="700" fill="#39ff88">CLIENT</text><text x="860" y="215.5" font-size="12.5" fill="#d9f7e3" fill-opacity=".8">secure storage · token refresh · pinning</text></g>
+</g>
+<path d="M0,-7 L7,0 L0,7 L-7,0Z" fill="#39ff88" filter="url(#g)" opacity="0"><animateTransform attributeName="transform" type="translate" values="600.0 35.0;600.0 393.0" dur="3s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3s" begin="0s" repeatCount="indefinite"/></path>
+<path d="M0,-7 L7,0 L0,7 L-7,0Z" fill="#39ff88" filter="url(#g)" opacity="0"><animateTransform attributeName="transform" type="translate" values="600.0 35.0;600.0 393.0" dur="3s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3s" begin="1.5s" repeatCount="indefinite"/></path>
+<text x="614.0" y="39.0" font-size="12" fill="#39ff88" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace">authorised request ✓</text>
+<path d="M300,272 L342,288 L342,334 C342,364 320,382 300,392 C280,382 258,364 258,334 L258,288 Z" fill="#39ff88" fill-opacity=".06" stroke="#39ff88" stroke-width="2"><animate attributeName="stroke-opacity" values=".5;1;.5" dur="1.6s" repeatCount="indefinite"/></path>
+<path d="M284,332 l11,12 l22,-26" fill="none" stroke="#39ff88" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="12" text-anchor="middle"><text x="300" y="418" fill="#39ff88">validate · authorise · rate-limit</text></g>
+<circle r="5" cy="306" fill="#ff3b5c" filter="url(#g)"><animate attributeName="cx" values="70;250" keyTimes="0;1" dur="2.4s" begin="0.0s" repeatCount="indefinite" calcMode="spline" keySplines=".3 0 .9 .6"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.92;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="254" cy="306" r="4" fill="none" stroke="#ff3b5c" opacity="0"><animate attributeName="r" values="4;4;18" keyTimes="0;.9;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;.9;0" keyTimes="0;.9;.93;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle r="5" cy="336" fill="#ff3b5c" filter="url(#g)"><animate attributeName="cx" values="70;250" keyTimes="0;1" dur="2.4s" begin="0.8s" repeatCount="indefinite" calcMode="spline" keySplines=".3 0 .9 .6"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.92;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="254" cy="336" r="4" fill="none" stroke="#ff3b5c" opacity="0"><animate attributeName="r" values="4;4;18" keyTimes="0;.9;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;.9;0" keyTimes="0;.9;.93;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle r="5" cy="364" fill="#ff3b5c" filter="url(#g)"><animate attributeName="cx" values="70;250" keyTimes="0;1" dur="2.4s" begin="1.6s" repeatCount="indefinite" calcMode="spline" keySplines=".3 0 .9 .6"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.92;1" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="254" cy="364" r="4" fill="none" stroke="#ff3b5c" opacity="0"><animate attributeName="r" values="4;4;18" keyTimes="0;.9;1" dur="2.4s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;.9;0" keyTimes="0;.9;.93;1" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace" font-size="12" fill="#ff3b5c"><text x="64" y="272">untrusted input</text><text x="64" y="290" fill-opacity=".7">sqli · xss · brute force</text></g>
+</svg>
