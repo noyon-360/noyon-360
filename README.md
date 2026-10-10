@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://nazibullahnoyon.me"><img src="https://img.shields.io/badge/%E2%96%B8%20portfolio-nazibullahnoyon.me-39ff88?style=for-the-badge&labelColor=050806" alt="Portfolio"/></a>
   <a href="https://nazibullahnoyon.me/case-study"><img src="https://img.shields.io/badge/%E2%96%B8%20case%20files-5-00e5ff?style=for-the-badge&labelColor=050806" alt="Case studies"/></a>
-  <img src="https://img.shields.io/badge/%E2%96%B8%20status-white%20hat-ffcc00?style=for-the-badge&labelColor=050806" alt="White hat"/>
+  <a href="#rules-of-engagement"><img src="https://img.shields.io/badge/%E2%96%B8%20status-white%20hat-ffcc00?style=for-the-badge&labelColor=050806" alt="White hat"/></a>
 </p>
 
 ---
@@ -51,6 +51,7 @@ alignment   : white hat — every test authorised, every finding reported
   <img src="./assets/defense-stack.svg" width="100%" alt="Defense in depth: client, API, data and infra layers, with untrusted input stopped at the shield"/>
 </p>
 
+<a name="rules-of-engagement"></a>
 <details>
 <summary><b>📜 Rules of engagement</b></summary>
 
@@ -110,10 +111,10 @@ Other: [ML in Cyber Security (thesis)](https://github.com/noyon-360/ML-in-Cyber-
 ### `$ ./stats --live`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/35%2B-apps%20shipped-39ff88?style=flat-square&labelColor=0a110c"/>
-  <img src="https://img.shields.io/badge/14-engineers%20led-ffcc00?style=flat-square&labelColor=0a110c"/>
-  <img src="https://img.shields.io/badge/99%25-crash--free-00e5ff?style=flat-square&labelColor=0a110c"/>
-  <img src="https://img.shields.io/badge/98%25-IDS%20accuracy-ff3b5c?style=flat-square&labelColor=0a110c"/>
+  <a href="https://nazibullahnoyon.me"><img src="https://img.shields.io/badge/35%2B-apps%20shipped-39ff88?style=flat-square&labelColor=0a110c"/></a>
+  <a href="https://nazibullahnoyon.me"><img src="https://img.shields.io/badge/14-engineers%20led-ffcc00?style=flat-square&labelColor=0a110c"/></a>
+  <a href="https://nazibullahnoyon.me"><img src="https://img.shields.io/badge/99%25-crash--free-00e5ff?style=flat-square&labelColor=0a110c"/></a>
+  <a href="https://github.com/noyon-360/ML-in-Cyber-security"><img src="https://img.shields.io/badge/98%25-IDS%20accuracy-ff3b5c?style=flat-square&labelColor=0a110c"/></a>
 </p>
 
 <p align="center">
